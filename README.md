@@ -21,8 +21,8 @@
 ![Figma](https://img.shields.io/badge/figma-000000?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Framer](https://img.shields.io/badge/framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
-![After Effects](https://img.shields.io/badge/adobe_after_effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/adobe_premiere_pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
+![After Effects](https://img.shields.io/badge/adobe_after_effects-3e2c54?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/adobe_premiere_pro-2a1132?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 
 ---
 
